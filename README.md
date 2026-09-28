@@ -32,6 +32,15 @@ dashboard sees them too.
 | <img src="images/build/assembled-front.jpg" width="330"> | <img src="images/build/internal-wiring.jpg" width="330"> | <img src="images/build/bench-test-with-dashboard.jpg" width="330"> |
 | Three pill silos, hinged lid, TFT on a swing-out arm | Silos, water reservoir, drivers and the UV strip | Dashboard in the browser, TFT mirroring it |
 
+### The dashboard
+
+Served straight from the controller's flash — one HTML page, no app, no cloud, no account.
+Open the box's address on any device on the same network.
+
+<p align="center">
+  <img src="images/dashboard/dashboard-vitals.png" alt="Live vitals and pill counters" width="100%">
+</p>
+
 ---
 
 ## What it does
@@ -282,6 +291,27 @@ schedule windows, and press **Start** — or just press the physical button on t
 Everything the dashboard does is a plain `GET`, so you can drive the box from `curl`, a
 smart-home hub, or anything else on the network.
 
+**Schedules** — three windows, each with its own silo order, pump order and dose presets:
+
+<p align="center">
+  <img src="images/dashboard/dashboard-schedules.png" alt="Schedule editor" width="100%">
+</p>
+
+**Live state** — what is running right now, the configured sequences, cabinet climate and the
+pill targets:
+
+<p align="center">
+  <img src="images/dashboard/dashboard-state.png" alt="Motors, pumps, environment and pill targets" width="100%">
+</p>
+
+**Sequence builder** — tap to append, drag to reorder, or type the CSV directly:
+
+<p align="center">
+  <img src="images/dashboard/dashboard-control.png" alt="Sequence builder" width="100%">
+</p>
+
+> The whole page in one shot: [`images/dashboard/dashboard-full.png`](images/dashboard/dashboard-full.png)
+
 | Endpoint | Query parameters | Does |
 |----------|------------------|------|
 | `/` | — | The dashboard page |
@@ -368,6 +398,7 @@ Smart-Medical-Box/
 │   └── api.md                  HTTP API with curl examples
 ├── images/
 │   ├── build/                  photos of the finished box
+│   ├── dashboard/              screenshots of the web dashboard
 │   ├── cad/                    CAD views of every part
 │   └── render/                 renders straight from the STLs
 ├── assets/                     logo, banner, wiring diagram (PNG + SVG)
