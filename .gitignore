@@ -1,0 +1,51 @@
+# ---------------------------------------------------------------
+# Original working folders. They stay on disk, they just don't get
+# published — the tidied copies live in firmware/, hardware/ and
+# images/. Delete these lines if you ever want to publish them.
+# ---------------------------------------------------------------
+/3D file/
+/Image/
+/esp2final/
+/fullfinalekdomlast/
+/medicalboxhtml/
+/Smart Medical Box/
+/project idea smart medical box.txt
+/ChatGPT Image*.png
+
+# ---------------------------------------------------------------
+# Secrets — never commit real Wi-Fi credentials
+# ---------------------------------------------------------------
+secrets.h
+credentials.h
+*.local.h
+
+# ---------------------------------------------------------------
+# Arduino / PlatformIO
+# ---------------------------------------------------------------
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+*.bin
+*.elf
+*.hex
+*.map
+
+# ---------------------------------------------------------------
+# Editors and OS
+# ---------------------------------------------------------------
+.vscode/
+.idea/
+*.code-workspace
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+
+# ---------------------------------------------------------------
+# CAD scratch
+# ---------------------------------------------------------------
+*.f3d
+*.bak
+*.tmp
+*.gcode

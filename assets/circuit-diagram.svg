@@ -1,0 +1,208 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1780 1700" width="1780" height="1700" role="img" aria-label="Smart Medical Box wiring diagram" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyZmI3MWYyYS05Y2JlLTRiNzQtOTI1Yi05YmI2NzUxZjMwM2EAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPX0HLBDnSAWeTsy/8RrowYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowNjFlZTIxYS1mNDBiLTQ2OGUtODBiZS1hODE4YmE5ZmJlYWFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo8NMMWlqTdOMHdPT5tairCgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg1HDBT7IZLpVVuiUl/zO74hvg/wZ8Zljem5ux5UgTX1mkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIdg1YgK5eeFFJkfKYTUWRgAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCA5MTFyOd/EAO/DcQvr6BA1nSPah27FHB10qF9gnOoXk2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjTZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjJmYjcxZjJhLTljYmUtNGI3NC05MjViLTliYjY3NTFmMzAzYS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmE0MTJkZDEyLTJmNTAtNDUzZS05MjM5LTY4NjE4N2I2MmRhYnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDUcMFPshkulVW6JSX/M7viG+D/BnxmWN6bm7HlSBNfWaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggfreh2nYebagY15/RnD4RPXZ0T51q9RXsyeocxQO0m/SiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggxT2MovMCWzm0SBa0YprmXvow8Y8br8nRYY6OAtcIz2F0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFUcaKIRK2snNk1yoXZtEYm4OmX1oOBfcDVJeXZdtgkyZxpKa5gUsed/HCD90sZDaJ5uCuDJb+5RwzlmjwujOTc=</c2pa:manifest></metadata>
+<rect width="1780" height="1700" fill="#F4F9FB"/>
+<rect x="0" y="0" width="1780" height="96" fill="#06323C"/>
+<text x="48" y="44" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="27" font-weight="bold" fill="#FFFFFF" text-anchor="start" letter-spacing="1">SMART MEDICAL BOX</text>
+<text x="48" y="74" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="normal" fill="#8FCFDE" text-anchor="start" letter-spacing="0">Wiring diagram — pin assignments taken directly from the firmware</text>
+<text x="1732" y="44" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="normal" fill="#8FCFDE" text-anchor="end" letter-spacing="0">2 × ESP32 · linked over Wi-Fi (HTTP)</text>
+<text x="1732" y="72" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="normal" fill="#5E9DAE" text-anchor="end" letter-spacing="0">MCU pins only — power rails simplified</text>
+<rect x="760" y="190" width="240" height="680" rx="18" fill="#0E7C8C" stroke="#095767" stroke-width="3"/>
+<rect x="760" y="190" width="240" height="52" rx="18" fill="#095767"/>
+<rect x="760" y="224" width="240" height="18" fill="#095767"/>
+<text x="880.0" y="223" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="0">ESP32 #1</text>
+<text x="880.0" y="826" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="bold" fill="#B9E6EF" text-anchor="middle" letter-spacing="2">CONTROLLER</text>
+<text x="880.0" y="846" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="13.5" font-weight="middle" fill="#D8F2F8" text-anchor="start" letter-spacing="0">+ WEB SERVER :80</text>
+<text x="140" y="152" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">ESP32 #1  —  actuators, sensing &amp; user controls</text>
+<rect x="140" y="162" width="300" height="4" rx="2" fill="#FFB020"/>
+<line x1="744" y1="266" x2="760" y2="266" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="271.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 16</text>
+<line x1="744" y1="312" x2="760" y2="312" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="317.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 17</text>
+<line x1="744" y1="358" x2="760" y2="358" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="363.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 18</text>
+<line x1="744" y1="404" x2="760" y2="404" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="409.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 19</text>
+<line x1="744" y1="450" x2="760" y2="450" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="455.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 23</text>
+<line x1="744" y1="496" x2="760" y2="496" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="501.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 21</text>
+<line x1="744" y1="542" x2="760" y2="542" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="547.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 22</text>
+<line x1="744" y1="588" x2="760" y2="588" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="593.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 5</text>
+<line x1="744" y1="634" x2="760" y2="634" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="639.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 34</text>
+<line x1="744" y1="680" x2="760" y2="680" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="685.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 4</text>
+<line x1="744" y1="726" x2="760" y2="726" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="731.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 32</text>
+<line x1="744" y1="772" x2="760" y2="772" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="777.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 33</text>
+<line x1="1000" y1="290" x2="1016" y2="290" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="988" y="295.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="end" letter-spacing="0">GPIO 26</text>
+<line x1="1000" y1="352" x2="1016" y2="352" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="988" y="357.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="end" letter-spacing="0">GPIO 27</text>
+<line x1="1000" y1="414" x2="1016" y2="414" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="988" y="419.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="end" letter-spacing="0">GPIO 13</text>
+<line x1="1000" y1="476" x2="1016" y2="476" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="988" y="481.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="end" letter-spacing="0">GPIO 14</text>
+<line x1="1000" y1="538" x2="1016" y2="538" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="988" y="543.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="end" letter-spacing="0">GPIO 12</text>
+<line x1="1000" y1="600" x2="1016" y2="600" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="988" y="605.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="end" letter-spacing="0">GPIO 25</text>
+<line x1="1000" y1="662" x2="1016" y2="662" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="988" y="667.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="end" letter-spacing="0">GPIO 2</text>
+<rect x="150" y="214" width="300" height="118" rx="12" fill="#FFFFFF" stroke="#BBD8E0" stroke-width="2"/>
+<rect x="150" y="214" width="7" height="118" rx="3.5" fill="#0E7C8C"/>
+<text x="172" y="242" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">Motor driver A</text>
+<text x="172" y="268" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">TB6612FNG-type dual H-bridge</text>
+<text x="172" y="290" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">AIN1/AIN2 → Motor 0 (silo 1)</text>
+<text x="172" y="312" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">BIN1/BIN2 → Motor 1 (silo 2)</text>
+<rect x="150" y="356" width="300" height="96" rx="12" fill="#FFFFFF" stroke="#BBD8E0" stroke-width="2"/>
+<rect x="150" y="356" width="7" height="96" rx="3.5" fill="#0E7C8C"/>
+<text x="172" y="384" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">Motor driver B</text>
+<text x="172" y="410" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">Second dual H-bridge</text>
+<text x="172" y="432" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">AIN1/AIN2 → Motor 2 (silo 3)</text>
+<rect x="150" y="476" width="300" height="96" rx="12" fill="#FFFFFF" stroke="#BBD8E0" stroke-width="2"/>
+<rect x="150" y="476" width="7" height="96" rx="3.5" fill="#E04B59"/>
+<text x="172" y="504" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">Piezo disc</text>
+<text x="172" y="530" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">Pill-drop detector, analog in</text>
+<text x="172" y="552" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">fires when reading &gt; 400</text>
+<rect x="150" y="596" width="300" height="96" rx="12" fill="#FFFFFF" stroke="#BBD8E0" stroke-width="2"/>
+<rect x="150" y="596" width="7" height="96" rx="3.5" fill="#2F9E68"/>
+<text x="172" y="624" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">DHT22</text>
+<text x="172" y="650" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">Box temperature + humidity</text>
+<text x="172" y="672" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">1-wire data line</text>
+<rect x="150" y="716" width="300" height="118" rx="12" fill="#FFFFFF" stroke="#BBD8E0" stroke-width="2"/>
+<rect x="150" y="716" width="7" height="118" rx="3.5" fill="#FFB020"/>
+<text x="172" y="744" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">User controls</text>
+<text x="172" y="770" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">Start button → GPIO 32</text>
+<text x="172" y="792" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">Emergency switch → GPIO 33</text>
+<text x="172" y="814" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">both INPUT_PULLUP, active LOW</text>
+<polyline points="744,266 690,266 690,250 450,250" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="250" r="4" fill="#2D7D90"/>
+<polyline points="744,312 690,312 690,268 450,268" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="268" r="4" fill="#2D7D90"/>
+<polyline points="744,358 690,358 690,286 450,286" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="286" r="4" fill="#2D7D90"/>
+<polyline points="744,404 690,404 690,304 450,304" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="304" r="4" fill="#2D7D90"/>
+<polyline points="744,450 660,450 660,322 450,322" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="322" r="4" fill="#2D7D90"/>
+<polyline points="744,496 690,496 690,386 450,386" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="386" r="4" fill="#2D7D90"/>
+<polyline points="744,542 690,542 690,406 450,406" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="406" r="4" fill="#2D7D90"/>
+<polyline points="744,588 660,588 660,426 450,426" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="426" r="4" fill="#2D7D90"/>
+<polyline points="744,634 690,634 690,524 450,524" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="524" r="4" fill="#2D7D90"/>
+<polyline points="744,680 690,680 690,644 450,644" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="644" r="4" fill="#2D7D90"/>
+<polyline points="744,726 690,726 690,756 450,756" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="756" r="4" fill="#2D7D90"/>
+<polyline points="744,772 660,772 660,782 450,782" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="782" r="4" fill="#2D7D90"/>
+<rect x="1330" y="232" width="300" height="118" rx="12" fill="#FFFFFF" stroke="#BBD8E0" stroke-width="2"/>
+<rect x="1330" y="232" width="7" height="118" rx="3.5" fill="#2F9E68"/>
+<text x="1352" y="260" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">Pump 1  (relay)</text>
+<text x="1352" y="286" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">Syrup / water pump</text>
+<text x="1352" y="308" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">active LOW · GPIO 26</text>
+<text x="1352" y="330" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">run times 1.0 / 2.0 / 5.0 s</text>
+<rect x="1330" y="374" width="300" height="118" rx="12" fill="#FFFFFF" stroke="#BBD8E0" stroke-width="2"/>
+<rect x="1330" y="374" width="7" height="118" rx="3.5" fill="#2F9E68"/>
+<text x="1352" y="402" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">Pump 2  (relay)</text>
+<text x="1352" y="428" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">Second syrup pump</text>
+<text x="1352" y="450" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">active LOW · GPIO 27</text>
+<text x="1352" y="472" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">run times 1.5 / 2.5 / 4.5 s</text>
+<rect x="1330" y="516" width="300" height="84" rx="12" fill="#FFFFFF" stroke="#BBD8E0" stroke-width="2"/>
+<rect x="1330" y="516" width="7" height="84" rx="3.5" fill="#E04B59"/>
+<text x="1352" y="544" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">Buzzer</text>
+<text x="1352" y="570" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">Emergency siren, 200 ms toggle</text>
+<rect x="1330" y="624" width="300" height="140" rx="12" fill="#FFFFFF" stroke="#BBD8E0" stroke-width="2"/>
+<rect x="1330" y="624" width="7" height="140" rx="3.5" fill="#FFB020"/>
+<text x="1352" y="652" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">Status LEDs</text>
+<text x="1352" y="678" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">GPIO 14 — sequence started</text>
+<text x="1352" y="700" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">GPIO 12 — sequence done</text>
+<text x="1352" y="722" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">GPIO 25 — pump started</text>
+<text x="1352" y="744" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">GPIO 2  — pump done</text>
+<polyline points="1016,290 1250,290 1250,290 1330,290" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1330" cy="290" r="4" fill="#2D7D90"/>
+<polyline points="1016,352 1250,352 1250,432 1330,432" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1330" cy="432" r="4" fill="#2D7D90"/>
+<polyline points="1016,414 1250,414 1250,558 1330,558" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1330" cy="558" r="4" fill="#2D7D90"/>
+<polyline points="1016,476 1250,476 1250,662 1330,662" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1330" cy="662" r="4" fill="#2D7D90"/>
+<polyline points="1016,538 1285,538 1285,686 1330,686" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1330" cy="686" r="4" fill="#2D7D90"/>
+<polyline points="1016,600 1250,600 1250,710 1330,710" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1330" cy="710" r="4" fill="#2D7D90"/>
+<polyline points="1016,662 1285,662 1285,734 1330,734" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1330" cy="734" r="4" fill="#2D7D90"/>
+<line x1="60" y1="1010" x2="1720" y2="1010" stroke="#BBD8E0" stroke-width="2" stroke-dasharray="10 8"/>
+<text x="140" y="1048" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">ESP32 #2  —  vitals, water level &amp; 3.5" TFT</text>
+<rect x="140" y="1058" width="300" height="4" rx="2" fill="#FFB020"/>
+<rect x="760" y="1110" width="240" height="400" rx="18" fill="#0E7C8C" stroke="#095767" stroke-width="3"/>
+<rect x="760" y="1110" width="240" height="52" rx="18" fill="#095767"/>
+<rect x="760" y="1144" width="240" height="18" fill="#095767"/>
+<text x="880.0" y="1143" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="0">ESP32 #2</text>
+<text x="880.0" y="1468" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="bold" fill="#B9E6EF" text-anchor="middle" letter-spacing="2">SENSOR NODE</text>
+<text x="880.0" y="1488" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="13.5" font-weight="middle" fill="#D8F2F8" text-anchor="start" letter-spacing="0">+ TFT DISPLAY</text>
+<line x1="744" y1="1230" x2="760" y2="1230" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="1235.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 21</text>
+<line x1="744" y1="1288" x2="760" y2="1288" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="1293.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 22</text>
+<line x1="744" y1="1346" x2="760" y2="1346" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="772" y="1351.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="start" letter-spacing="0">GPIO 35</text>
+<line x1="1000" y1="1270" x2="1016" y2="1270" stroke="#FFB020" stroke-width="4" stroke-linecap="round"/>
+<text x="988" y="1275.5" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14.5" font-weight="bold" fill="#EAF7FA" text-anchor="end" letter-spacing="0">SPI</text>
+<rect x="150" y="1170" width="300" height="118" rx="12" fill="#FFFFFF" stroke="#BBD8E0" stroke-width="2"/>
+<rect x="150" y="1170" width="7" height="118" rx="3.5" fill="#E04B59"/>
+<text x="172" y="1198" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">MAX30102</text>
+<text x="172" y="1224" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">Heart rate + SpO₂, I²C 0x57</text>
+<text x="172" y="1246" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">SDA → GPIO 21</text>
+<text x="172" y="1268" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">SCL → GPIO 22</text>
+<rect x="150" y="1312" width="300" height="96" rx="12" fill="#FFFFFF" stroke="#BBD8E0" stroke-width="2"/>
+<rect x="150" y="1312" width="7" height="96" rx="3.5" fill="#2F9E68"/>
+<text x="172" y="1340" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">Body temp sensor</text>
+<text x="172" y="1366" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">I²C 0x7F, 24-bit raw / 2¹⁴</text>
+<text x="172" y="1388" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">shares the same SDA/SCL</text>
+<rect x="150" y="1432" width="300" height="96" rx="12" fill="#FFFFFF" stroke="#BBD8E0" stroke-width="2"/>
+<rect x="150" y="1432" width="7" height="96" rx="3.5" fill="#2196D4"/>
+<text x="172" y="1460" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">Water level probe</text>
+<text x="172" y="1486" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">Analog, 12-bit, ADC_11db</text>
+<text x="172" y="1508" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">empty 800 → full 3200 raw</text>
+<polyline points="744,1230 690,1230 690,1226 450,1226" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="1226" r="4" fill="#2D7D90"/>
+<polyline points="744,1288 660,1288 660,1248 450,1248" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="1248" r="4" fill="#2D7D90"/>
+<polyline points="690,1226 690,1360 450,1360" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="1360" r="4" fill="#2D7D90"/>
+<polyline points="660,1248 660,1382 450,1382" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="1382" r="4" fill="#2D7D90"/>
+<polyline points="744,1346 690,1346 690,1480 450,1480" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="450" cy="1480" r="4" fill="#2D7D90"/>
+<rect x="1330" y="1206" width="300" height="140" rx="12" fill="#FFFFFF" stroke="#BBD8E0" stroke-width="2"/>
+<rect x="1330" y="1206" width="7" height="140" rx="3.5" fill="#7B5BD6"/>
+<text x="1352" y="1234" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="bold" fill="#0B2E38" text-anchor="start" letter-spacing="0">3.5" TFT  480×320</text>
+<text x="1352" y="1260" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">ILI9488 / ST7796 over SPI</text>
+<text x="1352" y="1282" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">driven by TFT_eSPI</text>
+<text x="1352" y="1304" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">SPI pins are set in</text>
+<text x="1352" y="1326" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15.5" font-weight="normal" fill="#4A7A88" text-anchor="start" letter-spacing="0">TFT_eSPI/User_Setup.h</text>
+<polyline points="1016,1270 1250,1270 1250,1270 1330,1270" fill="none" stroke="#2D7D90" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1330" cy="1270" r="4" fill="#2D7D90"/>
+<rect x="1120" y="470" width="0" height="0"/>
+<path d="M 940 870 V 960 " fill="none" stroke="#E0632F" stroke-width="0"/>
+<rect x="620" y="908" width="540" height="96" rx="20" fill="#FFF3E0" stroke="#F0C48A" stroke-width="2"/>
+<text x="890" y="938" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17.5" font-weight="bold" fill="#8A4B12" text-anchor="middle" letter-spacing="0">Wi-Fi  ·  no wires between the boards</text>
+<text x="890" y="962" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" font-weight="middle" fill="#A86A2C" text-anchor="start" letter-spacing="0">ESP32 #2 → GET /ingest?bpm=&amp;body=&amp;water=   (every 1.5 s)</text>
+<text x="890" y="984" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" font-weight="middle" fill="#A86A2C" text-anchor="start" letter-spacing="0">ESP32 #2 → GET /status  → JSON back to the TFT   (every 1 s)</text>
+<path d="M 880.0 878 V 902" fill="none" stroke="#E0632F" stroke-width="3" stroke-dasharray="9 7"/>
+<path d="M 880.0 1102 V 1010" fill="none" stroke="#E0632F" stroke-width="3" stroke-dasharray="9 7"/>
+<rect x="0" y="1568" width="1780" height="132" fill="#06323C"/>
+<text x="48" y="1604" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="start" letter-spacing="0">Notes</text>
+<text x="48" y="1630" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="normal" fill="#9FD0DC" text-anchor="start" letter-spacing="0">•  GPIO 34 and 35 are input-only on the ESP32 — they are used here for the piezo and the water probe, which is correct.</text>
+<text x="48" y="1651" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="normal" fill="#9FD0DC" text-anchor="start" letter-spacing="0">•  GPIO 2 and 12 are strapping pins: keep the status LEDs on them low-current, or the board may refuse to boot.</text>
+<text x="48" y="1672" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="normal" fill="#9FD0DC" text-anchor="start" letter-spacing="0">•  Pump relays are active LOW — the firmware drives both HIGH on boot so nothing runs before the sequence starts.</text>
+<text x="48" y="1693" font-family="DejaVu Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="normal" fill="#9FD0DC" text-anchor="start" letter-spacing="0">•  Both boards need a common ground with the motor/pump supply; motors and pumps are NOT powered from the ESP32 3V3 rail.</text>
+</svg>
