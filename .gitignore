@@ -1,16 +1,8 @@
 # ---------------------------------------------------------------
-# Original working folders. They stay on disk, they just don't get
-# published — the tidied copies live in firmware/, hardware/ and
-# images/. Delete these lines if you ever want to publish them.
+# Assistant / tooling output — never publish
 # ---------------------------------------------------------------
-/3D file/
-/Image/
-/esp2final/
-/fullfinalekdomlast/
-/medicalboxhtml/
-/Smart Medical Box/
-/project idea smart medical box.txt
-/ChatGPT Image*.png
+Claude outputs/
+.claude/
 
 # ---------------------------------------------------------------
 # Secrets — never commit real Wi-Fi credentials
@@ -20,9 +12,10 @@ credentials.h
 *.local.h
 
 # ---------------------------------------------------------------
-# Arduino / PlatformIO
+# Arduino / PlatformIO build output
+# (anchored with a leading slash so images/build/ is NOT ignored)
 # ---------------------------------------------------------------
-build/
+/build/
 .pio/
 .pioenvs/
 .piolibdeps/
